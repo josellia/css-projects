@@ -1,0 +1,9 @@
+.image{
+    width: 550px;
+    height: 100vh;
+
+    background: linear-gradient( rgba(255, 0, 0, 0.45), 
+    rgba(315, 212, 707, 0.45)), url(https://images.pexels.com/photos/4218883/pexels-photo-4218883.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
